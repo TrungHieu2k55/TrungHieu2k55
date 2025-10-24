@@ -1,8 +1,6 @@
 <!-- Trungquandev -->
-<a href="#" target="_blank">
-  <img src="svg/trunghieu.svg" width="1200" alt="trungquandev-official" />
-</a>
 
+<h1 align="center">Hi I am Hieu</h1>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -65,9 +63,6 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trunghieu-blog" />
-  </a>
   <a href="https://www.facebook.com/truong.nguyen.trung.hieu.2024" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trunghieu-facebook" />
   </a>
@@ -87,5 +82,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trunghieu-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="svg/trunghieu-quotes.svg" width="846" height="150" alt="trunghieudev" />
 </a>
